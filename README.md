@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="25" height="25"/>&nbsp;
 </div>
 <h3 align="center">
   Hello, I am Sourodeep
