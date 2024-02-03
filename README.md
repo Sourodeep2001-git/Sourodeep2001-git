@@ -3,6 +3,8 @@
 </div>
 <p></p>
 <div id="badges" align="center">
+  Connect With me
+  <p></p>
   <a href="https://www.linkedin.com/in/sourodeep-paul-585817241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -52,7 +54,7 @@
 </div>
 
 ---
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep-2001&layout=compact)
+
 ---
 ![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep-2001&show_icons=true&theme=radical)
