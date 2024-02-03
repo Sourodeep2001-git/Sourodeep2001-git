@@ -15,6 +15,6 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m Sourodeep Paul. I'm a Web Developer.
+- I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently studying MCA from Techno International Newtown.
 
