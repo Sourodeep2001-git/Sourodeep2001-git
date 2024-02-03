@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hello, I am Sourodeep. I am a Web Developer and a MCA Student.
+  Hello, I am Sourodeep
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
