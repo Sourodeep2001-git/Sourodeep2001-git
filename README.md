@@ -4,13 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sourodeep-paul-585817241/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkdin&logoColor=white" alt="Linkdin Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkdin&logoColor=white" alt="Linkdin Badge"/>
   </a>
   <a href="https://www.instagram.com/devilian_sourodeep/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
  <a href="https://www.facebook.com/Sourodeep.Paul.2001?mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-skyblue?style=for-the-badge&logo=facebook &logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook &logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://github.com/Sourodeep-2001">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
