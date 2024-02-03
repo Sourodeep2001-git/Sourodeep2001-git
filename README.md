@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook &logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://github.com/Sourodeep-2001">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github Badge"/>
   </a>
 </div>
 
