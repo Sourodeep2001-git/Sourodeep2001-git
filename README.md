@@ -15,6 +15,6 @@
 
 ### :man_technologist: About Me :
 
-- I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Web Developer.
 - 🌱 I’m currently studying MCA from Techno International Newtown.
 
