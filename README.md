@@ -9,6 +9,9 @@
   <a href="https://www.instagram.com/devilian_sourodeep/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+ <a href="https://www.facebook.com/Sourodeep.Paul.2001?mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook &logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="https://github.com/Sourodeep-2001">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
