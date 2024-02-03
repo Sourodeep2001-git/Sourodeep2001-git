@@ -15,6 +15,7 @@
   <a href="https://github.com/Sourodeep-2001/">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <p></p>
   <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
 </div>
 
