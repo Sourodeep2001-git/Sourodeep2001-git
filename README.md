@@ -16,5 +16,5 @@
 ### :man_technologist: About Me :
 
 - 🔭 I’m Sourodeep Paul. I'm a Web Developer.
-- 🌱 I’m currently studying MCA
+- 🌱 I’m currently studying MCA from Techno International Newtown.
 
