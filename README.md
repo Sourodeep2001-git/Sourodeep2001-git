@@ -4,14 +4,11 @@
 <div align="center">
 <h1>
    Hi, I am Sourodeep 👋
+  <br>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </h1>
 </div>
- Hi, I am Sourodeep 👋
 
-<div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 
 <!--
