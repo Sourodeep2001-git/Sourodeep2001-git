@@ -1,4 +1,4 @@
-![SOURODEEP PAUL](https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/133be5c4-e53a-4f5c-9167-b3ba5d7ff4dd)
+![SOURODEEP PAUL](https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/4f5b9857-735b-44cb-9316-d9871b8a7fb0)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
