@@ -1,6 +1,6 @@
 ![SOURODEEP PAUL](https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/4f5b9857-735b-44cb-9316-d9871b8a7fb0)
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVrcHBzMmgwaTJkaWw5c21nMWh4MGRwNGdoaW13b3I3dHI4cjl6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" width="100" height="50"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVrcHBzMmgwaTJkaWw5c21nMWh4MGRwNGdoaW13b3I3dHI4cjl6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" width="100" height="100"/>
 </div>
 <p></p>
 <div id="badges" align="center">
