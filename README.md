@@ -59,7 +59,7 @@
 
 ---
 ### 🏆 GitHub Profile Trophy 🏆 :
-![trophy](https://github-profile-trophy.vercel.app/?username=Sourodeep-2001&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Sourodeep-2001&theme=discord)
 
 ---
 ### 📊 GitHub Stats:
