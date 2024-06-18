@@ -25,7 +25,7 @@
 
 <h3 align="center">
   Hello, I am Sourodeep
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="![IMG_20240613_090322](https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/77ffebe0-65f3-4eab-aadd-5544126e6d79)" width="30px"/>
 </h3>
 
 <div align="center">
