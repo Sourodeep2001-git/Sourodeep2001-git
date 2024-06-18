@@ -64,13 +64,13 @@
 
 ---
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep-2001&theme=onedark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep-2001&theme=dracula&layout=compact)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sourodeep-2001&theme=onedark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sourodeep-2001&theme=dracula&hide_border=false)
 <br/>
 
-![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep-2001&show_icons=true&theme=onedark)
+![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep-2001&show_icons=true&theme=dracula)
 <br/>
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
