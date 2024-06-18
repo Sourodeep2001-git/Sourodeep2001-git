@@ -28,7 +28,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/8be078b9-2578-45c3-a9dc-33bc4220495c" width="600" height="350"/>
+  <img src="https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/8be078b9-2578-45c3-a9dc-33bc4220495c" width="300" height="300"/>
 </div>
 
 ---
