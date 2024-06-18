@@ -3,10 +3,10 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF3bXpjZTJoNHNudzF4cnVrcDZyNHgydWxqYXN1cnFlMGdpcXJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="350" height="250"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVrcHBzMmgwaTJkaWw5c21nMWh4MGRwNGdoaW13b3I3dHI4cjl6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" width="250" height="250"/>
 </div>
-<p></p>
-<div id="badges" align="center">
-  🌐 Connect With Me 
-  <p></p>
+___
+
+### 🌐 Connect With Me :
+  <div>
   <a href="https://www.linkedin.com/in/sourodeep-paul-585817241/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="50"/>
   </a>
@@ -63,7 +63,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sourodeep-2001&theme=discord)
 
 ---
-### 📊 GitHub Stats:
+### 📊 GitHub Stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep-2001&theme=dracula&layout=compact)
 <br/>
 
