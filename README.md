@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/Sourodeep.Paul.2001">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" width="30"/>
   </a>
   <a href="https://github.com/Sourodeep-2001/">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
