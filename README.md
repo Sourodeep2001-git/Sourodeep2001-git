@@ -8,16 +8,16 @@
   🌐 Connect With Me 
   <p></p>
   <a href="https://www.linkedin.com/in/sourodeep-paul-585817241/">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="30"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="50"/>
   </a>
   <a href="https://www.instagram.com/devilian_sourodeep/">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"width="30"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"width="50"/>
   </a>
   <a href="https://www.facebook.com/Sourodeep.Paul.2001">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" width="30"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" width="50"/>
   </a>
   <a href="https://github.com/Sourodeep-2001/">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" width="30"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" width="50"/>
   </a>
   <p></p>
   <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
