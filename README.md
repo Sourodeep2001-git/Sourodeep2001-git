@@ -8,10 +8,10 @@
   🌐 Connect With Me 
   <p></p>
   <a href="https://www.linkedin.com/in/sourodeep-paul-585817241/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="30"/>
   </a>
   <a href="https://www.instagram.com/devilian_sourodeep/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"width="30"/>
   </a>
   <a href="https://www.facebook.com/Sourodeep.Paul.2001">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" width="30"/>
@@ -49,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="Php" width="40" height="40"/>
