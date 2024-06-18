@@ -7,7 +7,7 @@
 ___
 
 ### 🌐 Connect With Me :
-  <div>
+  <div id="connect" align="center">
   <a href="https://www.linkedin.com/in/sourodeep-paul-585817241/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="50"/>
   </a>
@@ -20,6 +20,7 @@ ___
   <a href="https://github.com/Sourodeep-2001/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" width="50"/>
   </a>
+  <p></p>
   <p></p>
   <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
 </div>
@@ -75,3 +76,6 @@ ___
 <br/>
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
+ <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
+</div>
