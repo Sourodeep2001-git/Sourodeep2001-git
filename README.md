@@ -17,7 +17,7 @@
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" width="30"/>
   </a>
   <a href="https://github.com/Sourodeep-2001/">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" width="30"/>
   </a>
   <p></p>
   <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
