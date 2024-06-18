@@ -70,3 +70,6 @@
 <br/>
 
 ![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep-2001&show_icons=true&theme=onedark)
+<br/>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
