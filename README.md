@@ -24,8 +24,7 @@
 </div>
 
 <h3 align="center">
-  Hello, I am Sourodeep
-  <img src="https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/77ffebe0-65f3-4eab-aadd-5544126e6d79" width="30px"/>
+  Hello, I am Sourodeep 👋
 </h3>
 
 <div align="center">
