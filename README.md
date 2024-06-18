@@ -22,7 +22,6 @@ ___
   </a>
   <p></p>
   <p></p>
-  <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3 align="center">
@@ -77,5 +76,6 @@ ___
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
+<div id="footer" align="center">
  <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
 </div>
