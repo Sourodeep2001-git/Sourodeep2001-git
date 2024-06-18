@@ -5,7 +5,7 @@
 </div>
 <p></p>
 <div id="badges" align="center">
-  Connect With me
+  🌐 Connect With Me 
   <p></p>
   <a href="https://www.linkedin.com/in/sourodeep-paul-585817241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
