@@ -69,8 +69,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaustav03&theme=onedark&hide_border=false)
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep-2001&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep-2001&show_icons=true&theme=radical)
+![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep-2001&show_icons=true&theme=discord)
