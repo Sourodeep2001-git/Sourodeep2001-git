@@ -82,6 +82,6 @@ ___
  <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
 
 <h5 align="center">
-© 2024 Sourodeep Paul. All rights are reserved.
+Sourodeep Paul © 2024 . All rights reserved.
 </h5>
 </div>
