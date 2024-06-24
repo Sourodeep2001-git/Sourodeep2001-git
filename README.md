@@ -17,7 +17,7 @@ ___
   <a href="https://www.facebook.com/Sourodeep.Paul.2001">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" width="50"/>
   </a>
-  <a href="https://github.com/Sourodeep-2001/">
+  <a href="https://github.com/Sourodeep2001-git">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Github_white.svg" width="50"/>
   </a>
   <p></p>
