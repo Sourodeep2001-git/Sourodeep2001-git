@@ -67,7 +67,7 @@ ___
 
 ---
 ### 📊 GitHub Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep-2001&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep2001-git&theme=dracula&layout=compact)
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sourodeep2001-git&theme=dracula&hide_border=false)
