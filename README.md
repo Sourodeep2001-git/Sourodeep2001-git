@@ -63,23 +63,23 @@ ___
 
 ---
 ### 🏆 GitHub Profile Trophy 🏆 :
-![trophy](https://github-profile-trophy.vercel.app/?username=Sourodeep-2001&theme=discord)
+![trophy](https://github-profile-trophy.vercel.app/?username=Sourodeep2001-git&theme=discord)
 
 ---
 ### 📊 GitHub Stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodeep-2001&theme=dracula&layout=compact)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sourodeep-2001&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sourodeep2001-git&theme=dracula&hide_border=false)
 <br/>
 
-![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep-2001&show_icons=true&theme=dracula)
+![Sourodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourodeep2001-git&show_icons=true&theme=dracula)
 <br/>
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <div id="footer" align="center">
- <img src="https://komarev.com/ghpvc/?username=Sourodeep-2001&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Sourodeep2001-git&style=flat-square&color=blue" alt=""/>
 
 <h5 align="center">
 Sourodeep Paul © 2024 . All rights reserved.
