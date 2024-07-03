@@ -79,7 +79,7 @@ ___
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <div id="footer" align="center">
- <img src="https://komarev.com/ghpvc/?username=Sourodeep2001-git&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Sourodeep2001-git&style=flat-square&color=red" alt=""/>
 
 <h5 align="center">
 Sourodeep Paul © 2024 . All rights reserved.
