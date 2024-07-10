@@ -29,7 +29,7 @@ ___
 </h3>
 
 <div align="center">
-  <img src="https://github.com/Sourodeep-2001/Sourodeep-2001/assets/57056047/0496032c-1abb-4062-a9e4-ad663d75ff15" width="300" height="300"/>
+  <img src="https://github.com/Sourodeep2001-git/Sourodeep2001-git/assets/57056047/0496032c-1abb-4062-a9e4-ad663d75ff15" width="300" height="300"/>
 </div>
 
 ---
