@@ -37,7 +37,7 @@ ___
 ### :man_technologist: About Me :
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Web Developer.
-- 🌱 I’m currently studying MCA from <a href="https://tint.edu.in/">Techno International Newtown </a>.
+- 🌱 I’m a MCA Student from <a href="https://tint.edu.in/">Techno International Newtown </a>.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
